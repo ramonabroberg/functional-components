@@ -1,10 +1,9 @@
-import css from './components/css/NavBarSimple.module.css';
-import NavBarSimple from "./components/Navbar";
+import NavBarForm from "./components/NavBarForm";
 
 function App() {
   return (
-    <div className={css.NavBar}>
-      <NavBarSimple />
+    <div>
+      <NavBarForm />
     </div>
   );
 }
