@@ -1,9 +1,9 @@
-import Content from "./components/Content";
+import ContentHooks from "./components/Content";
 
 function App() {
   return (
     <div>
-      <Content />
+      <ContentHooks />
     </div>
   );
 }
