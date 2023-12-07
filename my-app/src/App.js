@@ -1,9 +1,9 @@
-import ContentHooks from "./components/Content";
+import ContentAPIHooks from "./components/ContentAPIHooks";
 
 function App() {
   return (
     <div>
-      <ContentHooks />
+      <ContentAPIHooks />
     </div>
   );
 }
